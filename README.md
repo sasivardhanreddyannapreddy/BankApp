@@ -1,1 +1,1 @@
-# bankingapp
+# BankApp
